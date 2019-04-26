@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">JunkBiz</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_having_account">Already Having an Account?</string>
+    <string name="log_in">Log In</string>
+    <string name="not_having_account">Not Having an Account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logout">Logout</string>
+
+    <string name="recyclable_prompt">Choose a Recyclable</string>
+
+    <string-array name="recyclable_arrays">
+        <item>White Paper</item>
+        <item>Cartons</item>
+        <item>Newspaper</item>
+        <item>Assorted Papers</item>
+        <item>Clean PET Bottle</item>
+        <item>Unclean PET Bottle</item>
+        <item>Aluminum Cans</item>
+        <item>Plastic (HDPE)</item>
+        <item>Plastic (LDPE)</item>
+        <item>Engineering Plastics</item>
+        <item>Copper Wire (A)</item>
+        <item>Copper Wire (B)</item>
+        <item>Copper Wire (C)</item>
+        <item>Iron Alloys</item>
+        <item>Stainless Steel</item>
+        <item>GI Sheet</item>
+        <item>Tin Can</item>
+        <item>Emperador Long Neck</item>
+        <item>Emperador Lapad</item>
+        <item>Ginebra Gin</item>
+        <item>Ketchup</item>
+        <item>Softdrinks Bottle</item>
+        <item>Glass Cullets</item>
+        <item>Old Diskette</item>
+        <item>Inkjet Cartridge</item>
+        <item>Car Battery</item>
+        <item>Others</item>
+    </string-array>
+</resources>
